@@ -34,8 +34,8 @@ It works on all platforms. Android, IOS and window phone. It runs on **any brows
 
 To try it on your phone, it is only 2 easy steps, check it out!
 
-1. Open this [hiro marker image](https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg) in your desktop browser.
-1. Open this [augmented reality webapps](https://jeromeetienne.github.io/AR.js/three.js/examples/mobile-performance.html) in your phone browser, and point it at your screen.
+1. Open this [hiro marker image](https://valundra.github.io/AR.js/data/images/HIRO.jpg) in your desktop browser.
+1. Open this [augmented reality webapps](https://valundra.github.io/AR.js/three.js/examples/mobile-performance.html) in your phone browser, and point it at your screen.
 
 ![qrcode pointing to the webapp](https://raw.githubusercontent.com/aloisdg/Documents/master/Image/qrcode.png)
 
